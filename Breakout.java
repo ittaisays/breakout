@@ -1,7 +1,7 @@
 /*
  * File: Breakout.java 
  * -------------------
- * This game requires teh ACM Graphics library to be installed.
+ * This game requires the ACM Graphics library to be installed.
  */
 
 import acm.graphics.*;  
